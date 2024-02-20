@@ -32,6 +32,7 @@ function dominantDirection(text) {
   // i got no clue, i will work on this exerice later and try to figure out how, but I'm pretty much out of ideas and have no clue what any of it means.
 }
 
+
 console.log(dominantDirection("Hello!"));
 // → ltr
 console.log(dominantDirection("Hey, مساء الخير"));
